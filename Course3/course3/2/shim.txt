@@ -1,4 +1,4 @@
 #--no-index
-#--find-links /home/chander/code/github/dbx-genai-repo/Course3/course3/2
---requirement /home/chander/code/github/dbx-genai-repo/Course3/course3/2/requirements.txt
---constraint /home/chander/code/github/dbx-genai-repo/Course3/course3/2/constraints.txt
+#--find-links $PWD/llm-rag-agents-gateway-labs/Course3/course3/2
+--requirement $PWD/llm-rag-agents-gateway-labs/Course3/course3/2/requirements.txt
+--constraint $PWD/llm-rag-agents-gateway-labs/Course3/course3/2/constraints.txt

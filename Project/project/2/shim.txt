@@ -1,4 +1,4 @@
 #--no-index
-#--find-links /home/chander/code/github/dbx-genai-repo/Project/Project/2
---requirement /home/chander/code/github/dbx-genai-repo/Project/project/2/requirements.txt
---constraint /home/chander/code/github/dbx-genai-repo/Project/project/2/constraints.txt
+#--find-links $PWD/llm-rag-agents-gateway-labs/Project/Project/2
+--requirement $PWD/llm-rag-agents-gateway-labs/Project/project/2/requirements.txt
+--constraint $PWD/llm-rag-agents-gateway-labs/Project/project/2/constraints.txt
