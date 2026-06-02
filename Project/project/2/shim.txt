@@ -1,0 +1,4 @@
+#--no-index
+#--find-links /home/chander/code/github/dbx-genai-repo/Project/Project/2
+--requirement /home/chander/code/github/dbx-genai-repo/Project/project/2/requirements.txt
+--constraint /home/chander/code/github/dbx-genai-repo/Project/project/2/constraints.txt
